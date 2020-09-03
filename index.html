@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>海洋星球</title>
+  <style>
+    body{overflow: hidden;background: #000;}
+  </style>
+</head>
+<body>
+  <iframe id="gameContainer" name="gameContainer" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
+    您的浏览器不支持iframe，请升级
+  </iframe>
+  <script type="text/javascript">
+    var params = "";
+    if(window.location.search){
+      params = window.location.search.replace("?", "&");
+    }
+    var gameContainer = document.getElementById("gameContainer");
+    gameContainer.src = "./game.html";
+    gameContainer.scrolling = "no";
+  </script>
+</body>
+</html>

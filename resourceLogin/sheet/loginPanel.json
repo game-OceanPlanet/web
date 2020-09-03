@@ -1,0 +1,15 @@
+{"file":"loginPanel.png","frames":{
+"backpack_heidi":{"x":200,"y":0,"w":178,"h":205,"offX":0,"offY":0,"sourceW":178,"sourceH":205},
+"common_bg5":{"x":682,"y":67,"w":176,"h":162,"offX":0,"offY":0,"sourceW":176,"sourceH":162},
+"common_biaotitou":{"x":378,"y":0,"w":499,"h":67,"offX":0,"offY":0,"sourceW":499,"sourceH":67},
+"common_dikuang":{"x":877,"y":0,"w":100,"h":100,"offX":0,"offY":0,"sourceW":100,"sourceH":100},
+"common_dikuang2":{"x":0,"y":0,"w":200,"h":200,"offX":0,"offY":0,"sourceW":200,"sourceH":200},
+"common_guanbi":{"x":554,"y":166,"w":84,"h":84,"offX":1,"offY":0,"sourceW":85,"sourceH":85},
+"common_title_bg":{"x":0,"y":200,"w":163,"h":42,"offX":0,"offY":0,"sourceW":163,"sourceH":42},
+"dikuang4":{"x":858,"y":100,"w":90,"h":90,"offX":0,"offY":0,"sourceW":90,"sourceH":90},
+"serverlist_goukunag":{"x":977,"y":41,"w":41,"h":41,"offX":0,"offY":0,"sourceW":41,"sourceH":41},
+"serverlist_goukunag2":{"x":977,"y":0,"w":41,"h":41,"offX":0,"offY":0,"sourceW":41,"sourceH":41},
+"serverlist_ui_denglu_kuang":{"x":858,"y":190,"w":79,"h":88,"offX":0,"offY":0,"sourceW":79,"sourceH":88},
+"ui_denglu_anniu":{"x":378,"y":67,"w":304,"h":99,"offX":0,"offY":0,"sourceW":304,"sourceH":99},
+"ui_fwq_bg3":{"x":948,"y":100,"w":52,"h":50,"offX":0,"offY":0,"sourceW":52,"sourceH":50},
+"ui_fwq_bg5":{"x":378,"y":166,"w":176,"h":162,"offX":0,"offY":0,"sourceW":176,"sourceH":162}}}
