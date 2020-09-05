@@ -1,0 +1,9 @@
+{
+	"initial": [
+		"js/libs.min.js",
+		"js/protobuf-library.min.js",
+		"js/protobuf-bundles-login.min.js",
+		"js/login.thm.js",
+		"js/login.js"
+	]
+}
