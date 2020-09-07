@@ -34,6 +34,7 @@
 		"resource/game_skin/ShopSkin.exml",
 		"resource/login_skins/CheckBoxLoginSkin.exml",
 		"resource/login_skins/CommonTipSkin.exml",
+		"resource/login_skins/DisConnectSkin.exml",
 		"resource/login_skins/GameLoadingProgressBarSkin.exml",
 		"resource/login_skins/GameLoadingViewSkin.exml",
 		"resource/login_skins/ServerListTextInputSkin.exml",
