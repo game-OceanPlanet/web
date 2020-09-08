@@ -45,7 +45,7 @@
 			"url": "sheet/loginPanel.json",
 			"type": "sheet",
 			"name": "loginPanel_json",
-			"subkeys": "backpack_heidi,common_bg5,common_biaotitou,common_dikuang,common_dikuang2,common_guanbi,common_title_bg,dikuang4,serverlist_goukunag,serverlist_goukunag2,serverlist_ui_denglu_kuang,ui_denglu_anniu,ui_fwq_bg3,ui_fwq_bg5"
+			"subkeys": "backpack_heidi,common_bg5,common_biaotitou,common_dikuang,common_dikuang2,common_guanbi,common_title_bg,dikuang4,login_bg,point,serverlist_goukunag,serverlist_goukunag2,serverlist_ui_denglu_kuang,ui_denglu_anniu,ui_fwq_bg3,ui_fwq_bg5"
 		},
 		{
 			"url": "unpack/4036_map.jpg",

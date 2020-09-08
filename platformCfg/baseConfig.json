@@ -10,7 +10,7 @@
 	"openIdRequestDomain":"",
 	"rechargeOrderIdServer":"",
 	"platform":"xyws_solgame",
-	"platformId":0,
+	"platformId":1,
 	"platformSign":"xyws_solgame",
 	"isMarkPoint":0,
 	"markPointServer":"",
