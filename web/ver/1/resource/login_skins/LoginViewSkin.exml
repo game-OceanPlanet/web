@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoginViewSkin" xmlns:e="http://ns.egret.com/eui" xmlns:qmr="qmr.*" xmlns:w="http://ns.egret.com/wing"
+        height="1334" width="750">
+	<e:Group anchorOffsetY="0" left="0" right="0" top="0" bottom="0">
+		<e:Image scaleX="1" scaleY="1" source="1022_map_jpg" left="0" right="0" top="1" bottom="-1" />
+		<e:Group id="groupWind" width="750" bottom="0" height="1334" visible="true" x="0" y="-468" scaleX="1" scaleY="1">
+			<e:Image id="imgWindSlow" y="248.48" scaleX="1" scaleY="1" visible="true" />
+			<e:Image id="imgWindFast" y="517.88" scaleX="1" scaleY="1" visible="true" />
+			<e:Image id="imgWindMiddle" y="856.06" scaleX="1" scaleY="1" x="10" visible="true" />
+		</e:Group>
+		<e:Group horizontalCenter="8" verticalCenter="92.5">
+			<e:Image scale9Grid="89,71,13,33" anchorOffsetY="0" y="4" scaleX="1" scaleY="1" source="loginPanel_json.login_bg"
+			         x="0" />
+			<e:Group id="gpRead" y="328" scaleX="1" scaleY="1" anchorOffsetX="0" anchorOffsetY="0"
+			         visible="true" horizontalCenter="0">
+				<e:Image source="loginPanel_json.point" x="5" y="9"/>
+				<e:Label text="我已详细阅读并同意" x="288" y="13" fontFamily="specialGameFont" strokeColor="0x842813" stroke="1" size="24" />
+				<e:Label id="lbUserBook" text="用户手册" x="458" y="23" fontFamily="specialGameFont" size="24" stroke="1"
+				         textColor="0xFFCC66" strokeColor="0x150F00" />
+				<e:Label text="和" x="418" y="13" fontFamily="specialGameFont" strokeColor="0x842813" stroke="1" size="24" />
+				<e:Label id="lbPrivacyPolicy" text="隐私协议" x="448" y="13" fontFamily="specialGameFont" size="24" stroke="1"
+				         textColor="0xFFCC66" strokeColor="0x150F00" />
+
+				<e:layout>
+					<e:HorizontalLayout verticalAlign="middle" />
+				</e:layout>
+			</e:Group>
+			<e:Group id="groupAccount" y="80" visible="true" scaleX="1" scaleY="1" anchorOffsetY="0" horizontalCenter="11" height="91" anchorOffsetX="0" width="432">
+
+				<e:TextInput id="txt_account" maxChars="35" x="123" prompt="请输入账号" skinName="ServerListTextInputSkin" y="25"  anchorOffsetX="0" width="270"/>
+				<e:Label stroke="1" text="账号:" x="38" y="32" fontFamily="specialGameFont" size="28"  textColor="0x000000"/>
+			</e:Group>
+			<e:Image id="btn_login" source="loginPanel_json.ui_denglu_anniu" scaleX="1" scaleY="1" verticalCenter="46"
+			         horizontalCenter="3.5" />
+		</e:Group>
+	</e:Group>
+</e:Skin>
