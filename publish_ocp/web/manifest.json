@@ -1,0 +1,8 @@
+{
+	"initial": [
+		"js/libs-login.min.js"
+	],
+	"game":[
+		"js/main-game.min.js"
+	]
+}
