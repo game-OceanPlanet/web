@@ -18,7 +18,7 @@
 	"appId":"",
 	"appKey":"",
 	"channelId":"0",
-	"resVersion":2, 
+	"resVersion":3, 
 	"isOpenGM":1,
 	"extendsParams":"",
 	"isDebug":1,
