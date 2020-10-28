@@ -18,7 +18,7 @@
 	"appId":"",
 	"appKey":"",
 	"channelId":"0",
-	"resVersion":14, 
+	"resVersion":22, 
 	"isOpenGM":1,
 	"extendsParams":"",
 	"isDebug":1,
@@ -26,8 +26,8 @@
 	"isShowNotice":1,
 	"max_hw_ratio":2.16,
 	"min_hw_ratio":1.333,
-	"connectAddress":"ws://www.szare.cn/s1",
+	"connectAddress":"ws://www.siychina.com/s1",
 	"GameId":2,
-	"InviteAddress":"http://www.szare.cn/ocdsp/game.html",
-	"AppDownAddress":"http://www.szare.cn/app/d_ocdsp.html"
+	"InviteAddress":"http://www.siychina.com/ocdsp/game.html",
+	"AppDownAddress":"http://www.siychina.com/app/d_ocdsp.html"
 }
